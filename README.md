@@ -69,3 +69,7 @@
 <hr />
 
 ## 13. <a name="supplemental">Supplemental Resources</a>
+
+* *[Agentic AI and AI Agents Comparison/Contrast Guide](https://github.com/chaseofthejungle/agentic-ai-and-ai-agents-overview)*
+* *[Agentic AI Frameworks Overview](https://github.com/chaseofthejungle/agentic-ai-frameworks-overview)*
+* *[Four AI Model Types Overview](https://github.com/chaseofthejungle/four-ai-models-overview)*
